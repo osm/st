@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:size=10";
+static char *font = "Liberation Mono:size=10";
 static int borderpx = 2;
 
 /*
